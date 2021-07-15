@@ -30,8 +30,8 @@ router.param('model', (req, res, next) => {
     }
 });
 
-router.get('/:model', basicAuth, permision('read'), handleGetAll);
-router.get('/:model/:id', basicAuth, permision('read'), handleGetOne);
+router.get('/:model', basicAuth, handleGetAll);
+router.get('/:model/:id', basicAuth, handleGetOne);
 router.post('/:model', bearerAuth, permision('create'), handleCreate);
 router.put('/:model/:id', bearerAuth, permision('update'), handleUpdate);
 router.delete('/:model/:id', bearerAuth, permision('delete'), handleDelete);

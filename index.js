@@ -1,7 +1,7 @@
 'use strict';
 
 require('dotenv').config();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 6000;
 const MONGODB_URI = process.env.MONGODB_URI;
 const server = require('./src/server');
 
