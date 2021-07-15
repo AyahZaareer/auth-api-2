@@ -9,7 +9,7 @@
 [URL](https://github.com/AyahZaareer/auth-api-2/actions)
 
 ## Heroku Link:
-[URL]()
+[URL](https://ayah-api-auth.herokuapp.com)
 
 ## Pull Request:
 [URL](https://github.com/AyahZaareer/auth-api-2/pull/2)
