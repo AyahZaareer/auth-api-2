@@ -12,7 +12,7 @@
 [URL]()
 
 ## Pull Request:
-[URL](https://github.com/AyahZaareer/auth-api-2/pull/1)
+[URL](https://github.com/AyahZaareer/auth-api-2/pull/2)
 
 ## Setup:
 1.clone the repo.
